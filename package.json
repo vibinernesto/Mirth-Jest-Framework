@@ -12,6 +12,11 @@
   },
   "keywords": [],
   "author": "",
+  "jest": {
+    "testPathIgnorePatterns": [
+      "/node_modules/"
+    ]
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/vibinernesto/Mirth-Jest-Framework/issues"
