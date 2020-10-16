@@ -13,10 +13,11 @@
   "keywords": [],
   "author": "",
   "jest": {
-    "testPathIgnorePatterns": [
-      "/node_modules/"
+    "transformIgnorePatterns": [
+      "node_modules/(?!(jest-)?react-native|react-(native|universal|navigation)-(.*)|@react-native-community/(.*)|@react-navigation/(.*)|bs-platform)"
     ]
   },
+  
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/vibinernesto/Mirth-Jest-Framework/issues"
