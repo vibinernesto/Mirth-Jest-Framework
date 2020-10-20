@@ -9,3 +9,6 @@ Mirth-Jest-Framework/_tests_/sampleFiles/outputSampleJson.json
 
 # The JEST framework unit testing function
 Mirth-Jest-Framework/_tests_/pidToAccession-mapper.test.js
+
+# CI/CD
+Testing the CI/CD using AWS Code pipeline
