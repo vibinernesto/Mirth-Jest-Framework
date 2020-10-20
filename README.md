@@ -16,4 +16,7 @@ Testing the CI/CD using AWS Code pipeline.
 **Execution**
 Mirth codes will be tested outside the mirth IDE and unit testing will be performed out side mirth completely.
 
+**Mirth Transformers**
+Mirth transformers will be calling their functions as external JS files
+
 
